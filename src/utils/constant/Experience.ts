@@ -9,21 +9,21 @@ interface IExperience {
 }
 export const experience = [
   {
-    title: 'Mobile Developer Cohort',
-    company: 'Bangkit Academy',
+    title: 'SMAN 1 SIKUR',
+    company: '',
     type: 'Education',
     description:
-      'The Mobile Developer Cohort at Bangkit Academy is an intensive program from February to July 2024, focused on Android development and integrating machine learning into Android apps. Participants will work on hands-on projects and receive expert mentorship, culminating in a robust portfolio of Android applications.',
-    date: 'Febuary - July 2024',
-    url: 'https://grow.google/intl/id_id/bangkit?tab=machine-learning',
+      'SMAN 1 Sikur is a public school located in East Lombok Regency, Sikur Sub-district, Gelora Village.',
+    date: 'June 2019 - April 2022',
+    url: 'https://sman1sikur.sch.id/',
   },
   {
-    title: 'Lab Assistant',
-    company: 'STMIK Widya Cipta Dharma',
-    type: 'Work',
+    title: 'Universty of Widyagama',
+    company: '',
+    type: 'Education',
     description:
-      'support the operation and success of practicum activities and setting up the necessary equipment and softwareensuring laboratory safety and order and providing assistance to students during practical sessions.',
-    date: 'April 2023 - April 2024',
-    url: 'https://www.wicida.ac.id/',
+      'Widyagama University is one of the private universities located in the center of Malang City, East Java, Indonesia. Widyagama University was established by Yayasan Pembina Pendidikan Indonesia (YPPI) in 1971.',
+    date: 'August 2022 - Now',
+    url: 'https://widyagama.ac.id/',
   },
 ]

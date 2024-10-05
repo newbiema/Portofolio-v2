@@ -127,8 +127,8 @@ export default function About() {
         </p>
       </div>
       <TextSection
-        icon="💼"
-        text="My Experience"
+        icon="🏫"
+        text="My Education"
         classNames="mb-10 text-center"
       />
       <div className="mx-auto mb-10 flex grid-cols-9 flex-col p-2 text-blue-50 md:grid">

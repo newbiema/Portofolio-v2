@@ -127,7 +127,7 @@ export default function About() {
         </p>
       </div>
       <TextSection
-        icon="🏫"
+        icon="🎓"
         text="My Education"
         classNames="mb-10 text-center"
       />

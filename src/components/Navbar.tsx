@@ -11,7 +11,7 @@ import { Tooltip } from '@material-tailwind/react'
 import { usePathname, useRouter } from 'next/navigation'
 import { animatePageOut } from '@/utils/animation/animatePage'
 
-type Routes = '/about' | '/education' | '/project'
+type Routes = '/about'  | '/project'
 
 export default function Navbar() {
   const [isActive, setIsActive] = useState(false)
@@ -22,15 +22,13 @@ export default function Navbar() {
   const navLinks = [
     { name: '🚀 Home', href: '/' },
     { name: '😎 About', href: '/about' },
-    { name: '🎓 Education', href: '/education' },
     { name: '⚒️ Project', href: '/project' },
     { name: '📑 Resume', href: '/resume' },
     { name: '📲 Contact', href: '/contact' },
   ]
 
   const navigationRoutes = {
-    '/about': '/education',
-    '/education': '/project',
+    '/about': '/project',
     '/project': '/resume',
     '/resume': '/contact',
   }

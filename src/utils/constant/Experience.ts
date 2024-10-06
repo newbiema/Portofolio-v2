@@ -13,7 +13,7 @@ export const experience = [
     company: '',
     type: 'Education',
     description:
-      'SMAN 1 Sikur is a public school located in East Lombok Regency, Sikur Sub-district, Gelora Village.',
+      'The Mobile Developer Cohort at Bangkit Academy is an intensive program from February to July 2024, focused on Android development and integrating machine learning into Android apps. Participants will work on hands-on projects and receive expert mentorship, culminating in a robust portfolio of Android applications.',
     date: 'June 2019 - April 2022',
     url: 'https://sman1sikur.sch.id/',
   },

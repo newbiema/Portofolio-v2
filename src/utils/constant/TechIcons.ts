@@ -1,24 +1,16 @@
 import {
   BiLogoTypescript,
   BiLogoJavascript,
-  BiLogoGoLang,
   BiLogoReact,
   BiLogoNodejs,
-  BiLogoPostgresql,
 } from 'react-icons/bi'
 import { FaBootstrap, FaJava } from 'react-icons/fa'
 import {
-  SiPhp,
+
   SiNextdotjs,
-  SiLaravel,
-  SiExpress,
-  SiAdonisjs,
   SiTailwindcss,
-  SiJest,
   SiMongodb,
   SiMysql,
-  SiFramer,
-  SiJetpackcompose,
   SiPython,
 } from 'react-icons/si'
 

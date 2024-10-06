@@ -20,13 +20,16 @@ export default function ProjectCard({
       viewport={{ once: true }}
       className="dark:border-dark-secondary group relative h-36 w-[280px] cursor-pointer overflow-hidden rounded-lg  border-2 border-black-primary object-cover shadow-button-card sm:w-[360px] lg:h-44"
     >
-      <Image
-        src={`https://drive.google.com/thumbnail?id=${image}&sz=w3000`}
+      
+
+        <Image
+        src={`https://drive.google.com/uc?id=${image}`}
         width={1000}
         height={1000}
         className="h-full w-full object-cover"
         alt="foto"
       />
+
       <div className="absolute right-0 top-0 z-10 flex h-1/4 w-full -translate-y-10 items-center justify-end gap-2 p-2 transition-all group-hover:translate-y-0">
         {demo != 'none' && (
           <a

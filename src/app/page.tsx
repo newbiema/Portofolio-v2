@@ -52,7 +52,7 @@ export default function Home() {
         <h1 id="scramble" className="text-3xl font-bold md:text-6xl"></h1>
         <ScrambleText>Evan Jamaq</ScrambleText>
         <h2 className="text-xl font-bold dark:text-white md:text-4xl">
-          Hi, Folks{' '}
+          Hi, Friends👋{' '}
           <span className="hidden w-12 md:inline-block">
             <Image src={'/wave.gif'} alt="welcome" width={100} height={100} />
           </span>{' '}

@@ -33,7 +33,7 @@ export const logoLinks = [
   },
   {
     name: 'Gmail',
-    href: 'mailto:someone@example.com',
+    href: 'mailto:xevan19@gmail.com',
     icon: Mail,
   },
   {

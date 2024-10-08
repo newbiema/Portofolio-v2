@@ -21,7 +21,7 @@ const ScrambleText: React.FC<Props> = ({ children }) => {
     return () => {
       stopScramble()
     }
-  }, ) // Empty dependency array ensures useEffect runs only once on component mount
+  }, [] ) // Empty dependency array ensures useEffect runs only once on component mount
 
   const scramble = () => {
     let pos = 0

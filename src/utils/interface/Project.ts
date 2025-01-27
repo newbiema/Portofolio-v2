@@ -90,4 +90,13 @@ export const project: IProject[] = [
     demo: 'https://landing-hero-peach.vercel.app/',
     repo: 'https://github.com/newbiema/Landing-Hero',
   },
+  {
+    title: 'Ayam Betutu',
+    image: '14h4psACdX0r5_sPbXQoGXP2S3_-je0Ja',
+    type: 'E-Commerce',
+    deskripsi:
+      'Ayu Songket is a website for purchasing songket fabrics from North Tetebatu Village, East Lombok.',
+    demo: 'https://ayam-betutu-walawe.vercel.app/',
+    repo: 'https://github.com/newbiema/Ayam-Betutu',
+  },
 ];

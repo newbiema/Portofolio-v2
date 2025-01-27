@@ -7,7 +7,7 @@ import {
   Telegram,
   Twitter,
 } from '@/components/common/Icons'
-import { SiSpotify } from 'react-icons/si'
+import { SiSpotify, SiYoutube } from 'react-icons/si'
 
 export const logoLinks = [
   {
@@ -35,7 +35,13 @@ export const logoLinks = [
 
   {
     name: 'Spotify',
-    href: '',
+    href: 'https://open.spotify.com/user/l6asl12shk2mbi279b91snlc3?si=71af851b062947f3',
     icon: SiSpotify,
+  },
+
+  {
+    name: 'Youtube',
+    href: 'https://open.spotify.com/user/l6asl12shk2mbi279b91snlc3?si=71af851b062947f3',
+    icon: SiYoutube,
   },
 ]

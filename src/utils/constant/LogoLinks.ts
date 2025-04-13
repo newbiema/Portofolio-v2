@@ -41,7 +41,7 @@ export const logoLinks = [
 
   {
     name: 'Youtube',
-    href: 'https://open.spotify.com/user/l6asl12shk2mbi279b91snlc3?si=71af851b062947f3',
+    href: 'https://www.youtube.com/@GameWithEvan',
     icon: SiYoutube,
   },
 ]

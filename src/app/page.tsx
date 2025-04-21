@@ -63,9 +63,9 @@ export default function Home() {
             sequence={[
               'Front-End Developer',
               5000,
-              'Top Global Free Fire',
+              'Back-End Developer',
               5000,
-              'Muadzin Di Madinah',
+              'Fullstack Javascript',
               5000,
             ]}
             wrapper="span"
